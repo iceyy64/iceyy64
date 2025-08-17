@@ -1,15 +1,15 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
+## Lakshay Riyar (Him/He) 🌻
+- 🔭 I’m a Student Software Engineer from National Institute of Technology Agartala
+- 👯 I write about technologies that interest me in [My Blog](https://lakshayriyar.in/blogs).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
+- 📫 **How to reach me**: [Website](https://lakshayriyar.in/) or [LinkedIn](https://linkedin.com/in/lakshayriyar/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>
 <summary>
-  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="https://github.com/iceyy64"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 
